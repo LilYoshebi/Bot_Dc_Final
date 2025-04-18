@@ -1,0 +1,27 @@
+{
+  "name": "dc_bot",
+  "version": "1.0.0",
+  "description": "Bot De Discord Multiusos Y MultiServidor",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "",
+    "start": "node ./src/index.js",
+    "createslach": "node ./src/Utils/CreateSlachCommands.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilYoshebi/DC_Bot_Final.git"
+  },
+  "author": "LilYoshebi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LilYoshebi/DC_Bot_Final/issues"
+  },
+  "homepage": "https://github.com/LilYoshebi/DC_Bot_Final#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.18.0",
+    "mongodb": "^6.15.0"
+  },
+  "type": "commonjs"
+}

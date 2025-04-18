@@ -1,0 +1,6 @@
+#ignorar el archivo de configuracion
+config.json
+#ignorar el archivo de prueba de la base de datos
+pruebadb.js
+#ignorar el archivo de prueba
+prueba.js
